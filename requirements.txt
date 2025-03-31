@@ -1,0 +1,6 @@
+langchain_community 
+pymupdf 
+langchain-google-genai 
+langchain-core 
+google-generativeai 
+streamlit
